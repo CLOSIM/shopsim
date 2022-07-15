@@ -1,5 +1,5 @@
-remote_theme: Shopsim/cayman
-plugins:
-- jekyll-remote-theme
+#remote_theme: Shopsim/cayman
+#plugins:
+#- jekyll-remote-theme
 
-show_downloads: false
+#show_downloads: false
