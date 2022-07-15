@@ -3,5 +3,6 @@
 <div style="text-align:center"><img src="logo.png" width="30%" height="30%"/></div>
 
 <script type="text/javascript">
+  
 document.getElementById("phrase").innerHTML = "Hello JavaScript!";
 </script>
