@@ -1,1 +1,3 @@
-<div style="text-align:center"><img src="logo.png" width="60%" height="60%"/><br> Today is the best day for shopping!</div>
+<div style="text-align:center"><img src="logo.png" width="40%" height="40%"/></div>
+<br> 
+Today is the best day for shopping!
