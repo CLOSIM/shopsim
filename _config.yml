@@ -5,3 +5,4 @@ plugins:
 title: CLOSIM
 description: hort description of your site's purpo
 show_downloads: false
+github.is_project_page: false
