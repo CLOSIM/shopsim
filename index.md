@@ -3,6 +3,8 @@
 <div style="text-align:center"><img src="logo.png" width="30%" height="30%"/></div>
 
 <script type="text/javascript">
-  
-document.getElementById("phrase").innerHTML = "Hello JavaScript!";
+// JavaScript example
+
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
+<p>okay</p>
