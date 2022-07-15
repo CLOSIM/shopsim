@@ -28,6 +28,7 @@
             margin: auto;
         }
         .footer {
+            text-align: left
             width: 20em;
             max-width: 100%;
             padding: 1em;
@@ -49,13 +50,20 @@
         </style>
     </head>
     <body>
+        
       <div class="center">
           <img src="logo.png"/>
           <br>
           <h3 id="phrase"></h3>
         </div>
       <div class="footer"><img src="shopsim.png"/></div>
-      <script src="https://github.com/Shopsim/closim/blob/gh-pages/script.js"></script>
+      <script>
+          const arr = [1, 'hello', 5, 8];
+          const randomIndex = Math.floor(Math.random() * arr.length);
+          const item = arr[randomIndex];
+          document.getElementById("phrase").innerHTML = item;
+        </script>
+        
     </body>
 
 </html>
