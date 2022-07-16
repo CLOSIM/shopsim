@@ -1,1 +1,1 @@
-<div style="text-align:center"><img src="logo.png" width="75%" height="75%"/></div>
+<div style="text-align:center"><img src="logo.png" width="80%" height="80%"/></div>
