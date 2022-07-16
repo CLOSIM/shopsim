@@ -5,4 +5,4 @@
 <script type="text/javascript">
   
 document.getElementById("phrase").innerHTML = "Hello JavaScript!";
-</script>
+<\/script>
