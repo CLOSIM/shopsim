@@ -1,1 +1,3 @@
+### Наша служба поддержки поможет решить ваш вопрос. Для этого направьте письмо на shopsim.team@yandex.ru с детальным описанием вопроса.
+
 <div style="text-align:center"><img src="logo.png" width="60%" height="60%"/></div>
