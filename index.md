@@ -1,5 +1,8 @@
 ****
 
+<p align="center">Подпишитесь на наш <a href="https://www.instagram.com/closim_brand/"> <img align="center" alt="Instagram Closim brand" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png" /></a>
+  <a href="https://www.instagram.com/closim_brand/"><b>closim_brand</b></a> чтобы всегда быть в тренде! </p>
+<br/>
 Наша служба поддержки поможет решить Ваш вопрос.
 Для этого направьте письмо на почту shopsim.team@yandex.ru с детальным описанием вопроса.
 
