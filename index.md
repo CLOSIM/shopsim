@@ -8,5 +8,11 @@
 Наша служба поддержки поможет решить Ваш вопрос. Для этого направьте письмо на почту <a href="mailto:shopsim.team@yandex.ru">shopsim.team@yandex.ru</a> с детальным описанием вопроса.
 </p>
 
-<div style="text-align:center"><img src="care.png" width="70%" height="70%"/></div>
-https://tdesktop.com/img/iconround128.png
+<p align="center">
+  Для того, чтобы наши изделия радовали Вас долгое вермя мы рекомендуем придерживаться следующих правил по уходу:
+</p>
+
+
+<div align="center" style="margin-top: 50px;" width="70%" height="70%">
+  <img src="care.png">
+</div>
