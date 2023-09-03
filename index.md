@@ -13,6 +13,6 @@
 </p>
 
 
-<div align="center" style="margin-top: 50px;" width="70%" height="70%">
+<div align="center" width="70%" height="70%">
   <img src="care.png">
 </div>
