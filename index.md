@@ -5,6 +5,8 @@
   и наш <a href="https://t.me/CLOSIM_brand/"> <img align="center" alt="Telegram CLOSIM brand" width="20px" src="https://tdesktop.com/img/iconround128.png" /></a> <a href="https://t.me/CLOSIM_brand/"><b>CLOSIM_brand</b></a>
   чтобы всегда быть в тренде! 
 <br/>
+<br/>
+
 Наша служба поддержки поможет решить Ваш вопрос. Для этого направьте письмо на почту <a href="mailto:shopsim.team@yandex.ru">shopsim.team@yandex.ru</a> с детальным описанием вопроса.
 </p>
 
